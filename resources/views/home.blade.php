@@ -9,8 +9,14 @@
 @stop
 
 @section('content')
-    @foreach ($people as $person) 
-    	<li>{{ $person }}</li>
-    @endforeach
+	<div class="container">
+		<p>This is the Home page.</p>
+
+		<br>
+
+	    @foreach ($people as $person) 
+	    	<li>{{ $person }}<br></li>
+	    @endforeach
+	</div>
 @stop
 

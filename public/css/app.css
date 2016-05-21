@@ -17,25 +17,37 @@ li {
   color: green;
   list-style-type: none; }
 
+a {
+  text-decoration: none; }
+
 li a {
   color: green;
   text-decoration: none;
   list-style-type: none; }
 
-.centered {
-  text-align: center;
-  vertical-align: middle; }
+nav li a {
+  text-decoration: underline; }
 
-.container {
-  text-align: center;
-  display: table-cell;
-  vertical-align: middle; }
+/*
+            .centered {
+                text-align: center;
+                vertical-align: middle;
+            }
 
-.content {
-  text-align: center;
-  display: inline-block; }
+            .container {
+                text-align: center;
+                display: table-cell;
+                vertical-align: middle;
+            }
 
-.title {
-  font-size: 96px; }
+            .content {
+                text-align: center;
+                display: inline-block;
+            }
+
+            .title {
+                font-size: 96px;
+            }// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+*/
 
 /*# sourceMappingURL=app.css.map */
