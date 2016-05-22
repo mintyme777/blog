@@ -22,3 +22,5 @@ Route::get('/about', 'PagesController@about');
 
 Route::get('/login', 'PagesController@login');
 
+Route::get('/gallery', 'PagesController@gallery');
+

@@ -16,6 +16,7 @@
           <li><a href="{{ 'login' }}">Login</a></li>
           <li><a href="{{ 'about' }}">About</a></li>
           <li><a href="{{ 'contact' }}">Contact</a></li>
+          <li><a href="{{ 'gallery' }}">Gallery</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
           <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>

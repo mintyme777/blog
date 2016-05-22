@@ -31,7 +31,7 @@
             }
 
             nav li a {
-                text-decoration: underline;
+                text-decoration: none;
             }
 /*
             .centered {
@@ -48,6 +48,11 @@
             .content {
                 text-align: center;
                 display: inline-block;
+            }
+
+            .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form 
+            {
+                border-color: #48bf68;
             }
 
             .title {

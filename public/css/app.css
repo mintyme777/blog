@@ -26,7 +26,7 @@ li a {
   list-style-type: none; }
 
 nav li a {
-  text-decoration: underline; }
+  text-decoration: none; }
 
 /*
             .centered {
