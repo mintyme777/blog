@@ -10,8 +10,11 @@
 
 @section('content')
 	<div class="container">
-		<p>This is the Home page.</p>
-
+		<h3>
+			<div class="demo" data-in-effect="bounce">
+				<p>This is the Home page.</p>
+			</div>
+		</h3>
 		<br>
 
 	    @foreach ($people as $person) 

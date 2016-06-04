@@ -9,5 +9,9 @@
 @stop
 
 @section('content')
-    <p>This is the contact page.</p>
+  		<h3>
+			<div class="demo" data-in-effect="bounce">
+				<p>This is the Contact page.</p>
+			</div>
+		</h3>
 @stop
