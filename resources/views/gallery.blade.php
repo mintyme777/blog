@@ -17,11 +17,11 @@
   }
   </style>
 
-  <h3>
+<h3>
     <div class="demo" data-in-effect="bounce">
-          <p>This is the Gallery page.</p>
+        <p>This is the Gallery page.</p>
     </div>  
-  </h3> 
+</h3> 
   <br> 
 
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
